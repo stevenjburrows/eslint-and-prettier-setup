@@ -1,3 +1,11 @@
+# Setting up ESLint and Prettier with husky and lint-staged
+
+Thhis Repo is the companion for the blog on [how to setup up ESLint and Prettier with Husky and lint-staged](https://thekiltedcoder.hashnode.dev/setting-up-eslint-and-prettier-using-lint-staged-and-husky)
+
+The main part of the app while you can run it using the commands below is aimed at setting up allthese packages and I have a creted a few errors that both Prettier and ESLint will pick up to show what theses errors look like should you come accross them.
+
+If you have any comments or would like to suggest somthing I have missed then please leave a comment on the blog and I will get back to you
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
